@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"Newest event","image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.justdial.com%2FErnakulam%2FWe-Create-Events-Near-Housing-Board-Building-Panampilly-Nagar%2F0484PX484-X484-140206113128-A9M4_BZDET&psig=AOvVaw2iEaWSdsgE_p7sYHc6Fysl&ust=1679407626773000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJD3-InX6v0CFQAAAAAdAAAAABAc","date":"2023-03-23","description":"amazing event","id":"bb806369-3953-403e-a815-63fc24607a24"},{"title":"dsadasdas","image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwhitespacemanila.com%2Fhow-important-is-the-events-venue-in-the-success-of-the-event%2F&psig=AOvVaw2iEaWSdsgE_p7sYHc6Fysl&ust=1679407626773000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJD3-InX6v0CFQAAAAAdAAAAABAT","date":"2023-03-24","description":"dsadasdasd","id":"dec16077-a31f-4ec6-9151-8c06037e58f0"},{"title":"A new event","image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fdugunyardimcisi.com%2Ffiyatlari%2Famore-event-ankara-nisan-soz-etimesgut&psig=AOvVaw2iEaWSdsgE_p7sYHc6Fysl&ust=1679407626773000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJD3-InX6v0CFQAAAAAdAAAAABAE","date":"2023-03-24","description":"react router event","id":"59ed6372-6fd1-4934-a4d1-98ea7c948a72"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
