@@ -20,7 +20,7 @@ export default EventsPage;
 
 export async function loader() {
   //hooks cant be used in loaders!!!
-  const response = await fetch('http://localhost:8080/evendsadsa');
+  const response = await fetch('http://localhost:8080/events');
 
   if (!response.ok) {
     // return { isError: true, message: 'Could not fetch events' };
